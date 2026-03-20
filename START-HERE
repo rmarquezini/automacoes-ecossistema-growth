@@ -1,0 +1,34 @@
+PARE! Se você é novo por aqui, este é o ponto de partida obrigatório (:
+
+O ecossistema de growth é o conjunto de automações de vendas e marketing, "no-code" e "low-code", que conta com as seguintes funções:
+
+  i) Criação, classificação por tags e distribuição operacional - por roleta de pré-vendas - de leads e contatos, via webhook, capturados através de formulários do GreatPages, Brevo e LinkedIn em:
+    I) CRM (Pipedrive); 
+    II) Planilha de controle (Google Sheets);
+    III) Ferramenta de envio de e-mail marketing (Brevo);
+    IV) Ferramenta de gestão de comunidade (Klubs);
+    V) Ferramenta operacional para agendamentos de reunião (Prospect.chat e Lemlist);
+
+ii) Refletir atualizações de status, etapa e funil de vendas, dos negócios inbound e outbound, ocorridas no CRM (Pipedrive), na ferramenta de envio de e-mail marketing (Brevo).
+
+iii) Notificação ao time e envio de tag de MQL para ferramenta operacional de agendamento de reuniões (Prospect.chat e Lemlist), através da qualificação dos leads inbound e outbound, no CRM (Pipedrive).
+
+Ao todo o ecossistema conta com 12 automações sendo 6 no Make (antigo Integromat) e 6 no Pipedrive (CRM). Elas são:
+
+**Make**
+1) "[Inbound] - Preenchimento de Formulários (GreatPages, Brevo e LinkedIn) | 2025-08-13" -> item i;
+2) "[Inbound] - Formulários -> Klubs | 2026-02-14" -> item i;
+3) "[Inbound] - Formulários LinkedIn |2026-02-27" -> item i;
+4) "[Inbound] - Atualizações Pipedrive -> Brevo | 2026-01-28" -> item ii;
+5) "[Não Inbound] - Pipedrive -> Brevo | 2026-01-26" -> item ii;
+6) "Envio de Tag MQL para o Prospect.chat e Lemlist - 2025 - 11- 07" -> item iii;
+
+**Pipedrive**
+1) ""
+
+
+Para entender como todas essas automações funcionam com mais detalhe, por favor, leia os seguintes documentos:
+
+/docs: fluxogramas das automações;
+/blueprints: arquivos JSON;
+/
